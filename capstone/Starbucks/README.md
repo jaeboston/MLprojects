@@ -9,7 +9,7 @@
 
 ## Installation <a name="installation"></a>
 
-The Jupyter Notebook file should run using Python versions 3.*. The following lib. are used in the Notebook.
+The Jupyter Notebook file should run using Python versions 3.*. The following Python packages are used in the Notebook.
 
 pandas 
 numpy
@@ -20,10 +20,7 @@ scikitlearn
 
 ## Project Description<a name="project"></a>
 
-Starbucks sends out various promotional offers to its app users. We are given a simulated data that mimics customer response to those offers. As a Capstone project, we will walk thru how to build machine learning(ML) algorithms to predict if that user is likely to complete the offer. 
-This ML model could help out which users should starbucks focus to send out promotional offers. 
-
-The data sets contain simulated data that mimics customer behavior. An offer can be information for a drink or an actual offer such as a discount or BOGO (buy one get one free).
+Starbucks sends out various promotional offers to its app users. We are given a simulated data that mimics customer response to those offers. As a Capstone project, we will walk thru how to build machine learning(ML) models to predict if that user is likely to complete certain type of promotions offers. 
 
 
 ## File Descriptions <a name="files"></a>
@@ -36,7 +33,7 @@ The data sets contain simulated data that mimics customer behavior. An offer can
 
 ## Results<a name="results"></a>
 
-[Notebook Walk thru](TBD).
+[Notebook Walk thru](https://medium.com/@learningsigma/do-you-prefer-bogo-or-a-discount-offer-on-your-starbucks-app-21416bba7da5).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
