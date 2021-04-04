@@ -20,8 +20,7 @@ scikitlearn
 
 ## Project Description<a name="project"></a>
 
-Starbucks sends out various promotional offers to its app users. We are given a simulated data that mimics customer response to those offers. As a Capstone project, we will walk thru how to build machine learning(ML) models to predict if that user is likely to complete certain type of promotions offers. 
-
+Starbucks sends out various promotional offers to its app users. As a Capstone project, we will have simulated data that mimics customer response to those promotional offers. Using the data set,  we will build machine learning(ML) models to predict if a user is likely to complete a particular type of promotions offer.
 
 ## File Descriptions <a name="files"></a>
 
